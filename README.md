@@ -1,9 +1,9 @@
 # learn-pyhthon
 A simple test project to experiment with python
 
-- [ ] Install Python
-- [ ] Install PiP
-- [ ] Install Django
+- [x] Install Python
+- [x] Install PiP
+- [x] Install Django
 - [ ] Install MySql
 - [ ] Setup Database
 - [ ] Basic SQL
